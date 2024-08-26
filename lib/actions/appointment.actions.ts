@@ -42,7 +42,7 @@ export const getRecentAppointmentList = async () => {
     );
 
     // const scheduledAppointments = (
-    //   appointments.documents as Appointment[]
+      // appointments.documents as Appointment[]
     // ).filter((appointment) => appointment.status === "scheduled");
 
     // const pendingAppointments = (
